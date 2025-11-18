@@ -1,0 +1,6 @@
+# VSCode
+.vscode/
+
+# sistema
+.DS_Store
+Thumbs.db
